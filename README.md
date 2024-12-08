@@ -21,6 +21,7 @@ The Library Management System is a software solution designed to simplify and op
 - **Books**: Contains information like title, author, and availability.
 - **Members**: Tracks users who can borrow books.
 - **Loans**: Manages borrowing and returning of books.
+- 
 ## Planned Improvements
 -Integration with external libraries for broader access and inter-library loans.
 -Development of a mobile application for user convenience.
