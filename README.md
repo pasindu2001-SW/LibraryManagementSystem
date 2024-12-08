@@ -1,8 +1,7 @@
 # Library Management System
 
 ## Overview
-The Library Management System is a software application designed to help manage library operations efficiently. It supports both library administrators (staff) and members, providing features for managing books, members, reservations, and loan transactions. The system is divided into two main interfaces: **Admin Dashboard** and **Member Dashboard**, allowing users 
-to interact with the library based on their roles.
+The Library Management System is a software solution designed to simplify and optimize library operations. It serves both library administrators (staff) and members, offering features to manage books, user accounts, reservations, and loan processes. The system includes two dedicated interfaces: the Admin Dashboard for staff and the Member Dashboard for library users, ensuring role-specific functionality.
 
 ## What It Does
 1. For Members:
@@ -22,8 +21,8 @@ to interact with the library based on their roles.
 - **Books**: Contains information like title, author, and availability.
 - **Members**: Tracks users who can borrow books.
 - **Loans**: Manages borrowing and returning of books.
-## Future Enhancements
-- Integration with external library systems (e.g., for inter-library loans).
-- Mobile app support for ease of access.
-- Analytics dashboard for advanced reporting.
+## Planned Improvements
+-Integration with external libraries for broader access and inter-library loans.
+-Development of a mobile application for user convenience.
+-Enhanced analytics dashboard for deeper insights and advanced reporting.
 
